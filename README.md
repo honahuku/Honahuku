@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[Twitter](https://twitter.com/honahuku)
+
+[qiita](https://qiita.com/honahuku)
+
+[blog](https://honahuku.hateblo.jp/archive)
+
 <!--
 **Honahuku/Honahuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
