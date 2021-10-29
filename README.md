@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Twitter](https://twitter.com/honahuku)
+[Twitter](https://twitter.com/yosuke_yamakawa)
 
 [qiita](https://qiita.com/honahuku)
 
