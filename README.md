@@ -1,13 +1,10 @@
 <!--### Hi there 👋-->
 
-雑多なつぶやき多めです
-[Twitter](https://twitter.com/yosuke_yamakawa)
+雑多なつぶやき多めです → [Twitter](https://twitter.com/yosuke_yamakawa)
 
-技術記事書いてます
-[qiita](https://qiita.com/honahuku)
+技術記事書いてます → [qiita](https://qiita.com/honahuku)
 
-ポートフォリオ的なサイトです
-[Wantedly](https://www.wantedly.com/id/yosuke_yamakawa)
+ポートフォリオ的なサイトです → [Wantedly](https://www.wantedly.com/id/yosuke_yamakawa)
 
 <!--
 **Honahuku/Honahuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
