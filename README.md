@@ -8,9 +8,9 @@
 
 # Skills
 
-Bash,Pythonを主に書いています。
-最近はハッカソンに向けてJavaScriptなどフロントエンドの技術を学習しています。
-簡単なUIデザイン、動画編集もやってます。
+Bash,Pythonを主に書いています。<br>
+最近はハッカソンに向けてJavaScriptなどフロントエンドの技術を学習しています。<br>
+簡単なUIデザイン、動画編集もやってます。<br>
 
 # Statistics
 ![Twitter Follow](https://img.shields.io/twitter/follow/yosuke_yamakawa?style=social)
