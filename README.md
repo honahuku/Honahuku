@@ -1,6 +1,6 @@
-<!--### Hi there 👋-->
+### about
 
-雑多なつぶやき多めです → [Twitter](https://twitter.com/yosuke_yamakawa)
+雑多なつぶやき多めです → ![Twitter Follow](https://img.shields.io/twitter/follow/yosuke_yamakawa?style=social)
 
 技術記事書いてます → [qiita](https://qiita.com/honahuku)
 
@@ -9,6 +9,9 @@
 # Statistics
 
 ### 
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/Honahuku" aria-label="Follow @Honahuku on GitHub">Follow @Honahuku</a>
 
 ![Follow Twitter](https://img.shields.io/twitter/follow/yosuke_yamakawa?style=social)
 
