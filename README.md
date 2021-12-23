@@ -1,6 +1,6 @@
 ### about
 
-雑多なつぶやき多めです → [Twitter](https://twitter.com/yosuke_yamakawa)
+雑多なつぶやき多めです → [Twitter](https://twitter.com/yosuke_yamakawa)<br>
 ![Twitter Follow](https://img.shields.io/twitter/follow/yosuke_yamakawa?style=social)
 
 技術記事書いてます → [qiita](https://qiita.com/honahuku)
