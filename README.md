@@ -14,4 +14,4 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?honahuku=anuraghazra&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honahuku)](https://github.com/anuraghazra/github-readme-stats)
