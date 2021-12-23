@@ -10,11 +10,10 @@
 
 ### 
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/Honahuku" aria-label="Follow @Honahuku on GitHub">Follow @Honahuku</a>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
-![Follow Twitter](https://img.shields.io/twitter/follow/yosuke_yamakawa?style=social)
-
+<a href="https://twitter.com/yosuke_yamakawa?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @yosuke_yamakawa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ###
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honahuku&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
