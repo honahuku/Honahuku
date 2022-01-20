@@ -15,4 +15,4 @@ Bash,Pythonを主に書いています。<br>
 # Statistics
 ![Twitter Follow](https://img.shields.io/twitter/follow/yosuke_yamakawa?style=social)
 
-[![Honahuku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honahuku&border_color=2e4058)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)(https://github.com/Honahuku/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)[![Honahuku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honahuku&border_color=2e4058)
