@@ -7,11 +7,32 @@
 ポートフォリオ的なサイトです → [Wantedly](https://www.wantedly.com/id/yosuke_yamakawa)
 
 # Skills
-
+## language
 Bash,Pythonを主に書いています。<br>
-他の利用技術ではDynamoDB,ECS,Fargate,GCS,Cloud Run,Proxmox VE,SoftetherVPN,Seleniumなどを扱っています。<br>
-最近はハッカソンに向けてJavaScriptなどフロントエンドの技術を学習しています。<br>
-AdobeXDでの簡単なUIデザイン、DaVinci Resolveでの動画編集もやってます。<br>
+最近はハッカソンに出場するためNode.jsとGoを勉強しています。<br>
+
+## infrastructure
+### AWS
+- DynamoDB
+- ECS
+- Fargate
+- Route53
+
+### GCP
+- GCS
+- Cloud Run
+
+### Azure
+- Azure Logic Apps
+- ACI
+- ACR
+
+### on-premises
+- Proxmox VE
+- SoftetherVPN
+
+## other
+[Seleniumを用いたWebスクレイピング](https://github.com/Honahuku/Selenium-Automation)や、AdobeXDでの簡単なUIデザイン、DaVinci Resolveでの動画編集もやってます。<br>
 
 # Statistics
 ![Twitter Follow](https://img.shields.io/twitter/follow/yosuke_yamakawa?style=social)
