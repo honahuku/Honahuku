@@ -9,8 +9,9 @@
 # Skills
 
 Bash,Pythonを主に書いています。<br>
+他の利用技術ではDynamoDB,ECS,Fargate,GCS,Cloud Run,Proxmox VE,SoftetherVPN,Seleniumなどを扱っています。<br>
 最近はハッカソンに向けてJavaScriptなどフロントエンドの技術を学習しています。<br>
-簡単なUIデザイン、動画編集もやってます。<br>
+AdobeXDでの簡単なUIデザイン、DaVinci Resolveでの動画編集もやってます。<br>
 
 # Statistics
 ![Twitter Follow](https://img.shields.io/twitter/follow/yosuke_yamakawa?style=social)
