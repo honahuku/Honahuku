@@ -15,8 +15,7 @@ Bash,Pythonを主に書いています。<br>
 # Statistics
 ![Twitter Follow](https://img.shields.io/twitter/follow/yosuke_yamakawa?style=social)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honahuku&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Honahuku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honahuku&border_color=2e4058)
 
-<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Honahuku/github-readme-stats)
--->
+
