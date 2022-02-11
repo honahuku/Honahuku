@@ -1,7 +1,7 @@
 # Statistics
 ![Twitter Follow](https://img.shields.io/twitter/follow/yosuke_yamakawa?style=social)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)![Honahuku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honahuku&show=issues&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Honahuku&count_private=true)![Honahuku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honahuku&show=issues&show_icons=true&count_private=true)
 
 [Twitter](https://twitter.com/yosuke_yamakawa) [qiita](https://qiita.com/honahuku) [Wantedly](https://www.wantedly.com/id/yosuke_yamakawa)
 
