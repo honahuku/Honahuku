@@ -1,15 +1,15 @@
 # Statistics
-<a href="https://github.com/yutkat/yutkat/">
-    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
+<a href="https://github.com/Honahuku/Honahuku/">
+    <img src="https://komarev.com/ghpvc/?username=Honahuku" alt="Honahuku" />
   </a>
-  <a href="http://twitter.com/yutkat">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/Honahuku">
+    <img height="20" src="https://img.shields.io/twitter/follow/yosuke_yamakawa?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="http://qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
+  <a href="http://qiita.com/Honahuku">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/honahuku/posts.svg" />
   </a>
-  <a href="http://qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
+  <a href="http://qiita.com/Honahuku">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/honahuku/contributions.svg" />
   </a>
   
 
