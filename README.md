@@ -1,7 +1,7 @@
 # Statistics
 ![Twitter Follow](https://img.shields.io/twitter/follow/yosuke_yamakawa?style=social)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Honahuku&count_private=true&exclude_repo=honahuku-blog-and-portfolio)![Honahuku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honahuku&show=issues&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Honahuku&count_private=true&exclude_repo=honahuku-blog-and-portfolio)![Honahuku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honahuku&show=issues&show_icons=true&count_private=true)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Honahuku&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [Twitter](https://twitter.com/yosuke_yamakawa) [qiita](https://qiita.com/honahuku) [Wantedly](https://www.wantedly.com/id/yosuke_yamakawa)
 
