@@ -1,7 +1,19 @@
 # Statistics
-![Twitter Follow](https://img.shields.io/twitter/follow/yosuke_yamakawa?style=social)
+<a href="https://github.com/yutkat/yutkat/">
+    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
+  </a>
+  <a href="http://twitter.com/yutkat">
+    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="http://qiita.com/yutkat">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
+  </a>
+  <a href="http://qiita.com/yutkat">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
+  </a>
+  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Honahuku&count_private=true&exclude_repo=honahuku-blog-and-portfolio)![Honahuku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honahuku&show=issues&show_icons=true&count_private=true)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Honahuku&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Honahuku&count_private=true&exclude_repo=honahuku-blog-and-portfolio)![Honahuku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honahuku&show=issues&show_icons=true&count_private=true)![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Honahuku&theme=solarized)
 
 [Twitter](https://twitter.com/yosuke_yamakawa) [qiita](https://qiita.com/honahuku) [Wantedly](https://www.wantedly.com/id/yosuke_yamakawa)
 
