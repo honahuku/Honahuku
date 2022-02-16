@@ -20,7 +20,7 @@
 # Skills
 ## language
 Bash,Pythonを主に書いています。<br>
-最近はハッカソンに出場するためJavaScriptとGoを勉強しています。<br>
+最近はバックエンドの技術力向上のためにGoを勉強しています。<br>
 
 ## infrastructure
 ### AWS
