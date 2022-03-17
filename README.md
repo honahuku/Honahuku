@@ -17,8 +17,6 @@
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Honahuku&theme=solarized) -->
 
-[Wantedly](https://www.wantedly.com/id/yosuke_yamakawa)
-
 # Skills
 ## language
 Bash,Pythonを主に書いています。<br>
