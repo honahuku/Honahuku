@@ -13,7 +13,9 @@
   </a>
   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Honahuku&count_private=true&exclude_repo=honahuku-blog-and-portfolio)![Honahuku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honahuku&show=issues&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Honahuku&count_private=true&exclude_repo=honahuku-blog-and-portfolio)
+
+<!-- ![Honahuku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honahuku&show=issues&show_icons=true&count_private=true) -->
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Honahuku&theme=solarized) -->
 
