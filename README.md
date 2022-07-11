@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=Honahuku" alt="Honahuku" />
   </a>
   <a href="http://twitter.com/honahuku">
-    <img height="20" src="https://img.shields.io/twitter/follow/yosuke_yamakawa?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/honahuku?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="http://qiita.com/honahuku">
     <img height="20" src="https://qiita-badge.apiapi.app/s/honahuku/posts.svg" />
