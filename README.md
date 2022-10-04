@@ -21,8 +21,9 @@
 
 # Skills
 ## language
-Bash,Pythonを主に書いています。<br>
-最近はバックエンドの技術力向上のためにGoを勉強しています。<br>
+Bash,Pythonを主に書いています。  
+最近はバックエンドの技術力向上のためにGoを勉強しています。  
+scalaにも興味が出てきた  
 
 ## infrastructure
 ### AWS
