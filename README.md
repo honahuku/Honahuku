@@ -12,9 +12,7 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/honahuku/contributions.svg" />
   </a>
 
-<!-- ![Honahuku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honahuku&show=issues&show_icons=true&count_private=true) -->
-
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Honahuku&theme=solarized) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Honahuku&theme=solarized)
 
 # Skills
 ## language
