@@ -19,12 +19,12 @@
 ### now
 Bash, Python, Go, Node.js, TypeScript
 ### want to
-scala, Haskell, PureScript
+Scala, Haskell, PureScript
 
 ## infrastructure
 Terraform
 ### AWS
-DynamoDB, ECS, Fargate, Route53
+ECS, Fargate, DynamoDB, Route53
 
 ### GCP
 GCS, Cloud Run, GKE
