@@ -1,4 +1,4 @@
-# Statistics
+# statistics
 <a href="https://github.com/Honahuku/">
     <img src="https://komarev.com/ghpvc/?username=Honahuku" alt="Honahuku" />
   </a>
@@ -14,31 +14,26 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Honahuku&theme=solarized)
 
-# Skills
+# skills
 ## language
-Bash,Pythonを主に書いています。  
-最近はバックエンドの技術力向上のためにGoを勉強しています。  
-scalaにも興味が出てきた  
+### now
+Bash, Python, Go, Node.js, TypeScript
+### want to
+scala, Haskell, PureScript
 
 ## infrastructure
+Terraform
 ### AWS
-- DynamoDB
-- ECS
-- Fargate
-- Route53
+DynamoDB, ECS, Fargate, Route53
 
 ### GCP
-- GCS
-- Cloud Run
+GCS, Cloud Run, GKE
 
 ### Azure
-- Azure Logic Apps
-- ACI
-- ACR
+ACI, ACR, Azure Logic Apps
 
 ### on-premises
-- Proxmox VE
-- SoftetherVPN
+Proxmox VE, SoftEther VPN [→article](https://qiita.com/honahuku/items/7be170ffe36405fc5c88)
 
-## other
-[Seleniumを用いたWebスクレイピング](https://github.com/Honahuku/Selenium-Automation)や、AdobeXDでの簡単なUIデザイン、DaVinci Resolveでの動画編集もやってます。<br>
+# other
+Selenium [→article](https://qiita.com/honahuku/items/6373ebb0fe803d6b594e), AdobeXD, DaVinci Resolve
