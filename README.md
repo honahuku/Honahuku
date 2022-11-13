@@ -22,12 +22,12 @@ Bash, Python, Go, Node.js, TypeScript
 Scala, Haskell, PureScript
 
 ## infrastructure
-Terraform
+Terraform, OCI, Docker, Singularity
 ### AWS
-ECS, Fargate, DynamoDB, Route53
+ECS, Fargate, DynamoDB, S3, Route53
 
 ### GCP
-GCS, Cloud Run, GKE  [→article](https://inside.pixiv.blog/2022/09/27/103000)
+GCS, Cloud Run, GCR, GKE  [→article](https://inside.pixiv.blog/2022/09/27/103000)
 
 ### Azure
 ACI, ACR, Azure Logic Apps
