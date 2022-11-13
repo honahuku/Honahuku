@@ -15,7 +15,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Honahuku&theme=solarized)
 
 # skills
-## language
+## programming language
 ### now
 Bash, Python, Go, Node.js, TypeScript
 ### want to
