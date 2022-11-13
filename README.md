@@ -27,7 +27,7 @@ Terraform
 ECS, Fargate, DynamoDB, Route53
 
 ### GCP
-GCS, Cloud Run, GKE
+GCS, Cloud Run, GKE  [→article](https://inside.pixiv.blog/2022/09/27/103000)
 
 ### Azure
 ACI, ACR, Azure Logic Apps
