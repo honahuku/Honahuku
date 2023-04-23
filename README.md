@@ -1,19 +1,12 @@
 # statistics
-<a href="https://github.com/Honahuku/">
-    <img src="https://komarev.com/ghpvc/?username=Honahuku" alt="Honahuku" />
-  </a>
-  <a href="http://twitter.com/honahuku">
-    <img height="20" src="https://img.shields.io/twitter/follow/honahuku?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="http://qiita.com/honahuku">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/honahuku/posts.svg" />
-  </a>
-  <a href="http://qiita.com/honahuku">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/honahuku/contributions.svg" />
-  </a>
+[![Articles](https://badgen.org/img/zenn/honahuku/articles?style=flat)](https://zenn.dev/honahuku)
+[![Posts](https://qiita-badge.apiapi.app/s/honahuku/posts.svg)](https://qiita.com/honahuku)
+[![Contributions](https://qiita-badge.apiapi.app/s/honahuku/contributions.svg)](https://qiita.com/honahuku)
+
+<!-- [![misskey](https://badgen.net/badge/misskey/:status/cyan)](https://qiita.com/honahuku) -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Honahuku&theme=solarized)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honahuku&layout=compact&count_private=true&show_icons=true&langs_count=10) -->
 # skills
 ## programming language
 ### now
