@@ -6,7 +6,8 @@
 <!-- [![misskey](https://badgen.net/badge/misskey/:status/cyan)](https://qiita.com/honahuku) -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Honahuku&theme=solarized)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honahuku&layout=compact&count_private=true&show_icons=true&langs_count=10) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honahuku&layout=compact&count_private=true&show_icons=true&langs_count=10)
+
 # skills
 ## programming language
 ### now
