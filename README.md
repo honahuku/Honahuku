@@ -1,5 +1,6 @@
 # statistics
 [![Articles](https://badgen.org/img/zenn/honahuku/articles?style=flat)](https://zenn.dev/honahuku)
+[![Scraps](https://badgen.org/img/zenn/honahuku/scraps?style=flat)](https://zenn.dev/honahuku?tab=scraps)
 [![Posts](https://qiita-badge.apiapi.app/s/honahuku/posts.svg)](https://qiita.com/honahuku)
 [![Contributions](https://qiita-badge.apiapi.app/s/honahuku/contributions.svg)](https://qiita.com/honahuku)
 
