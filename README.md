@@ -6,29 +6,28 @@
 
 <!-- [![misskey](https://badgen.net/badge/misskey/:status/cyan)](https://qiita.com/honahuku) -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Honahuku&theme=solarized)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=honahuku&layout=compact&count_private=true&show_icons=true&langs_count=10&exclude_repo=honahuku.net,blog,diary-honahuku,portfolio)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Honahuku&theme=solarized)
+![Top languages used in repository](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=honahuku&theme=solarized)
+![Top languages used in commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=honahuku&theme=solarized)
+![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=honahuku&theme=solarized)
+![Productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=honahuku&theme=solarized&utcOffset=9)
 
 # skills
-## programming language
-### now
-Bash, Python, Go, Node.js, TypeScript
-### want to
-Scala, Haskell, PureScript
+## programming languages
+[![programming languages](https://skillicons.dev/icons?i=bash,python,nodejs,js,ts,go)](https://skillicons.dev)
 
 ## infrastructure
-Terraform, OCI, Docker, Singularity
-### AWS
-ECS, Fargate, DynamoDB, S3, Route53
+[![design](logos/terraform.svg)]()
+[![infra](https://skillicons.dev/icons?i=kubernetes,gcp,cloudflare,ansible,sentry)](https://skillicons.dev)
 
-### GCP
-GCS, Cloud Run, GCR, GKE  [→article](https://inside.pixiv.blog/2022/09/27/103000)
+## design
+[![design](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![design](logos/DaVinci_Resolve_17_logo.svg)]()
 
-### Azure
-ACI, ACR, Azure Logic Apps
 
-### on-premises
-Proxmox VE, SoftEther VPN [→article](https://qiita.com/honahuku/items/7be170ffe36405fc5c88)
+## social
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/honahuku)
+[![mastodon](https://skillicons.dev/icons?i=mastodon)](https://mstdn.poyo.me/@honahuku)
 
-# other
-Selenium [→article](https://qiita.com/honahuku/items/6373ebb0fe803d6b594e), AdobeXD, DaVinci Resolve
+## others
+[![others](https://skillicons.dev/icons?i=gitlab,raspberrypi,vscode)](https://skillicons.dev)
