@@ -6,11 +6,31 @@
 
 <!-- [![misskey](https://badgen.net/badge/misskey/:status/cyan)](https://qiita.com/honahuku) -->
 
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Honahuku&theme=solarized)
-![Top languages used in repository](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=honahuku&theme=solarized&exclude=html)
-![Top languages used in commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=honahuku&theme=solarized&exclude=html)
-![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=honahuku&theme=solarized)
-![Productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=honahuku&theme=solarized&utcOffset=9)
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Honahuku&theme=solarized"
+  alt="Profile details"
+  width="800"
+/>
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=honahuku&theme=solarized&exclude=html"
+  alt="Top languages used in repository"
+  width="398"
+/>
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=honahuku&theme=solarized&exclude=html"
+  alt="Top languages used in commits"
+  width="398"
+/>
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=honahuku&theme=solarized"
+  alt="GitHub stats"
+  width="398"
+/>
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=honahuku&theme=solarized&utcOffset=9"
+  alt="Productive time"
+  width="398"
+/>
 
 # skills
 ## programming languages
