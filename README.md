@@ -46,11 +46,12 @@
 
 ## social
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/honahuku)
-[![mastodon](https://skillicons.dev/icons?i=mastodon)](https://mstdn.poyo.me/@honahuku)  
+[![mastodon](https://skillicons.dev/icons?i=mastodon)](https://mstdn.poyo.me/@honahuku)
+<a href="https://honahuku.booth.pm/"><img src="https://asset.booth.pm/static-images/banner/200x40_03.png"></a>
+
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=f4qvq7q2ub0skmo03jqw5epkz&unique={true|1|on|yes}&count=5)](https://open.spotify.com/user/f4qvq7q2ub0skmo03jqw5epkz)
 
 ## others
 [![others](https://skillicons.dev/icons?i=gitlab,raspberrypi,vscode)](https://skillicons.dev)  
 
-<a href="https://honahuku.booth.pm/"><img src="https://github.com/honahuku/Honahuku/assets/58413358/33f78ae2-9e1a-4c39-8be1-6dbcaf93cf58"></a>
