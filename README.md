@@ -3,7 +3,7 @@
 [![Scraps](https://badgen.org/img/zenn/honahuku/scraps?style=flat)](https://zenn.dev/honahuku?tab=scraps)
 [![Posts](https://qiita-badge.apiapi.app/s/honahuku/posts.svg)](https://qiita.com/honahuku)
 [![Contributions](https://qiita-badge.apiapi.app/s/honahuku/contributions.svg)](https://qiita.com/honahuku)
-
+![](https://komarev.com/ghpvc/?username=honahuku&color=yellowgreen&style=flat&label=GitHub+profile+views)
 <!-- [![misskey](https://badgen.net/badge/misskey/:status/cyan)](https://qiita.com/honahuku) -->
 
 <img
