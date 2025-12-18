@@ -54,7 +54,9 @@ SRE / 分散システムに興味を持っており、[研究活動](https://res
 **Infrastructure**  
 [![Terraform](logos/terraform.svg)]()
 [![Infra](https://skillicons.dev/icons?i=kubernetes,gcp,cloudflare,ansible,sentry)](https://skillicons.dev)
-
+<a href="https://www.linkedin.com/in/yosuke-yamakawa/details/certifications/">
+  <img src="./professional-cloud-developer.png" width="45" alt="Google Cloud Certified Professional Cloud Developer">
+</a>
 
 ---
 
