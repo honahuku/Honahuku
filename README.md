@@ -18,7 +18,7 @@ SRE / 分散システムに興味を持っており、[研究活動](https://res
 - [分散ストレージとコミット / 第2回分散システム集会](https://docs.google.com/presentation/d/13Mmb7YZrn5OQfO76rJJb2z4CRmYCkrCsTe_4ybdC07o/edit?usp=sharing)
 - [今から始める分散システム / 第1回分散システム集会](https://docs.google.com/presentation/d/1qzmltBLJ67b_JKj-E2z7heFPexDV4lXY/edit?usp=sharing&ouid=107422307434749438536&rtpof=true&sd=true)
 - [暗号化済み Web ページに対する広告関連技術を用いた検査手法の提案](https://docs.google.com/presentation/d/1OG6VreBtk3kDfAk6Dqmg-ejtCxpFcAMR/edit?usp=sharing&ouid=107422307434749438536&rtpof=true&sd=true)
-
+- [チームA発表 / DevSecOpsThon at GMO kitaQ](https://docs.google.com/presentation/d/1FSF99OybjY1faXFgk3S2ie9Jq2vnUPmG/edit?usp=sharing&ouid=107422307434749438536&rtpof=true&sd=true)
 
 ---
 
