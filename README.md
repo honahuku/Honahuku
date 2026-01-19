@@ -6,6 +6,18 @@ GKE をベースに、IaC（Terraform / Kustomize）や GitOps（Argo CD）を�
 
 SRE / 分散システムに興味を持っており、[研究活動](https://researchmap.jp/yosuke_yamakawa)や[勉強会の共同主催](https://distributed.connpass.com/)をしています。  
 
+### (WIP)Articles & Slides
+- [ほなふくさんの記事一覧 | Zenn](https://zenn.dev/honahuku)
+- [Honahuku (@honahuku) on Speaker Deck](https://speakerdeck.com/honahuku)
+- [ls -lra](https://blog.honahuku.com/)
+
+- [Kubernetes のスケーラビリティを左右するデータストアの話 / 第18回分散システム集会](https://docs.google.com/presentation/d/1_7_lra_PE6PdmlthphaDoxePqQOyzWpgntMJA7f7Odg/edit?usp=sharing)
+- [Kubernetes のクラスタ内ネットワーク概要 / 第11回分散システム集会](https://docs.google.com/presentation/d/1qSICkGkamYCyLni_UqQLrtxP4OwztEqf_KzwV7UMFUo/edit?usp=sharing)
+- [「改訂版ブルーム・タキソノミー」を利用したソフトウェアドキュメンテーションの改善手法の提案 / 情報処理学会 第87回全国大会](https://docs.google.com/presentation/d/1OhX2odKZ7XHw6h7hLqXz9NkAaa22WcCZ1pmZHiKCSWo/edit?usp=sharing)
+- [分散ストレージとコミット / 第2回分散システム集会](https://docs.google.com/presentation/d/13Mmb7YZrn5OQfO76rJJb2z4CRmYCkrCsTe_4ybdC07o/edit?usp=sharing)
+- [今から始める分散システム / 第1回分散システム集会](https://docs.google.com/presentation/d/1qzmltBLJ67b_JKj-E2z7heFPexDV4lXY/edit?usp=sharing&ouid=107422307434749438536&rtpof=true&sd=true)
+
+
 ---
 
 ### Stats & Badges
