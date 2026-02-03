@@ -67,7 +67,7 @@
 
 **Interests**
 - **Likes:** SF・百合・青春ものの作品が好きです。音楽はサカナクションをよく聴きます。
-- **VRChat:** クリエイターが集まるコミュニティの空気感が好きで、VRChatによく出没します。
+- **VRChat:** クリエイターが集まるコミュニティの空気感が好きで、VRChatによく出没しています。
 
 **Media Log**
 - [読書メーター (Books)](https://bookmeter.com/users/1371111) / [Annict (Anime)](https://annict.com/@honahuku)
