@@ -7,7 +7,7 @@
 ## Focus & Activities
 
 - **Engineering:** システム(Google Cloud / Kubernetes)の信頼性向上、Terraform / Argo CD を用いたインフラのコード管理・自動化推進、開発者体験の改善。
-- **Research:** SRE(サイト信頼性工学)・分散システム・情報ネットワークを中心とした研究活動[研究活動](https://researchmap.jp/yosuke_yamakawa)。理論的な裏付けによるシステム品質の向上を目指す。放送大学 教養学部 教養学科 情報コース 全科履修生。
+- **Research:** SRE(サイト信頼性工学)・分散システム・情報ネットワークを中心とした[研究活動](https://researchmap.jp/yosuke_yamakawa)。理論的な裏付けによるシステム品質の向上を目指す。放送大学 教養学部 教養学科 情報コース 全科履修生。
 - **Community:** [分散システム集会](https://distributed.connpass.com/) 共同主催。技術カンファレンスでの登壇や記事執筆。
 
 ---
