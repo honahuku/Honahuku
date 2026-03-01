@@ -1,12 +1,12 @@
-# Honahuku (ほなふく)
+# Honahuku （ほなふく）
 
 大規模システムにおけるSREとして、信頼性とパフォーマンスの改善に取り組んでいます。  
 現場の肌感覚に工学的な理論的裏付けを掛け合わせた、根拠あるシステム改善と組織づくりを専門としています。
 
 ## Focus & Activities
 
-- **Engineering:** システム(Google Cloud / Kubernetes)の信頼性向上、Terraform / Argo CD を用いたインフラのコード管理・自動化推進、開発者体験の改善。
-- **Research:** SRE(サイト信頼性工学)・分散システム・情報ネットワークを中心とした[研究活動](https://researchmap.jp/yosuke_yamakawa)。理論的な裏付けによるシステム品質の向上を目指す。放送大学教養学部教養学科情報コース全科履修生。
+- **Engineering:** システム（Google Cloud / Kubernetes）の信頼性向上、Terraform / Argo CD を用いたインフラのコード管理・自動化推進、開発者体験の改善。
+- **Research:** SRE（サイト信頼性工学）・分散システム・情報ネットワークを中心とした[研究活動](https://researchmap.jp/yosuke_yamakawa)。理論的な裏付けによるシステム品質の向上を目指す。放送大学教養学部教養学科情報コース全科履修生。
 - **Community:** [分散システム集会](https://distributed.connpass.com/) 共同主催（2024年3月〜、VRChat上で月1回開催）。地理的制約にとらわれない技術コミュニティの形成を試行錯誤中。
 
 ---
@@ -33,7 +33,7 @@
 - **Slides:** [Speaker Deck](https://speakerdeck.com/honahuku)
 
 <details>
-<summary><b>Featured Works / 主要なアウトプット</b> (Click to expand)</summary>
+<summary><b>Featured Works / 主要なアウトプット</b> （Click to expand） </summary>
 
 **Slides**
 
@@ -60,11 +60,11 @@
 
 **Languages** Go, Python, Bash, Node.js
 
-**Cloud & Infrastructure** Google Cloud (GKE, Cloud Run, BigQuery, Vertex AI), AWS, Kubernetes, Terraform, Ansible, Argo CD
+**Cloud & Infrastructure** Google Cloud （GKE, Cloud Run, BigQuery, Vertex AI）, AWS, Kubernetes, Terraform, Ansible, Argo CD
 
 **Observability & Tools** Datadog, Cloud Logging, Prometheus, GitHub Actions
 
-**Certifications** [Google Cloud Professional Cloud Developer(2025)](https://www.credly.com/badges/1e6ff33c-4a4a-46f3-bcea-d67bbb28439d)
+**Certifications** [Google Cloud Professional Cloud Developer（2025）](https://www.credly.com/badges/1e6ff33c-4a4a-46f3-bcea-d67bbb28439d)
 
 ---
 
@@ -74,11 +74,11 @@
 
 **Interests**
 
-- **Likes:** SF・百合・青春ものの作品が好きです。音楽はサカナクションをよく聴きます。あと街歩きとお酒が好き。好きなお酒はジンと甘い日本酒(純米吟醸酒)。
+- **Likes:** SF・百合・青春ものの作品が好きです。音楽はサカナクションをよく聴きます。あと街歩きとお酒が好き。好きなお酒はジンと甘い日本酒（純米吟醸酒）。
 - **VRChat:** 2022年からVRChatを始める（累計プレイ時間4,000時間超）。ものを作る楽しさを知る人が集まるコミュニティの空気感が好きで、よく顔を出しています。
 
 **Media Log**
 
-- [読書メーター (Books)](https://bookmeter.com/users/1371111) / [Annict (Anime)](https://annict.com/@honahuku)
+- [読書メーター （Books）](https://bookmeter.com/users/1371111) / [Annict （Anime）](https://annict.com/@honahuku)
 
 [![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=f4qvq7q2ub0skmo03jqw5epkz&unique=1&count=5)](https://open.spotify.com/user/f4qvq7q2ub0skmo03jqw5epkz)
