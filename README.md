@@ -20,6 +20,7 @@
 
 **連絡先**
 
+- **Name:** Honahuku / 山川 陽亮（Yosuke Yamakawa）
 - **Email:** tech[at]honahuku.com
 - **LinkedIn:** [Yosuke Yamakawa](https://www.linkedin.com/in/yosuke-yamakawa/)
 
