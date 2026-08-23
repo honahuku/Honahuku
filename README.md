@@ -22,6 +22,7 @@ VRChat上で分散システムやその周辺技術について話す会です�
 <details>
 <summary>発表・記事など</summary>
 
+- [ぶいちゃインフラ合同！](https://honah.uk/c108)
 - [Kubernetes のスケーラビリティを左右するデータストアの話](https://docs.google.com/presentation/d/1_7_lra_PE6PdmlthphaDoxePqQOyzWpgntMJA7f7Odg/edit?usp=sharing)
 - [大規模コンピューティングを支える Kubernetes のネットワーク](https://docs.google.com/presentation/d/1IFxijFcGcjrde_zkgYNVwh6eCBwZEgl7Cc3ctAfe7Cw/edit?usp=sharing)
 - [分散ストレージとコミット](https://docs.google.com/presentation/d/13Mmb7YZrn5OQfO76rJJb2z4CRmYCkrCsTe_4ybdC07o/edit?usp=sharing)
